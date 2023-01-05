@@ -1,8 +1,8 @@
 // Pong Game - ball module
 //
-// Uriel Martinez-Hernandez
+// Alden D'Souza
 // Univesity of Bath
-// December 2021
+// December 2022
 //
 
 
